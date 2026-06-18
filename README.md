@@ -1,203 +1,110 @@
-# Hey there! I'm Jezreel Ramos 🚀
+<h1 align="center">Jezreel Ramos</h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
+<p align="center">
+  Data Analyst &middot; Web Developer &middot; Project Management<br>
+  Based in the Philippines 🇵🇭 &mdash; turning data and ideas into reliable software.
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+%F0%9F%92%BB;Mobile+App+Architect+%F0%9F%93%B1;Developer+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation" />
-</div>
-
----
-
-## 🎯 **Who Am I?**
-
-```typescript
-const jezreel = {
-    role: "Developer & Student",
-    location: "Philippines 🇵🇭",
-    currentMission: "Transforming ideas into elegant digital solutions",
-    passions: ["Clean Code", "User Experience", "Problem Solving"],
-    motto: "Code with purpose, build with passion",
-    
-    currentlyBuilding: {
-        academic: "Various research projects & assignments",
-        personal: "Cross-platform applications",
-        community: "Open source contributions"
-    },
-    
-    learningJourney: [
-        "Advanced Flutter Architecture Patterns",
-        "Machine Learning & AI Integration",
-        "Cloud-Native Development",
-        "Data Analysis & Visualization"
-    ]
-};
-```
+<p align="center">
+  <a href="https://somarjez.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/jezreel-ramos-49b029350"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jezreelramoz@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/somarjez"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🛠️ **My Arsenal**
+## About
 
-<div align="center">
+I'm a developer and student passionate about turning data and ideas into clean, reliable software.
+My focus areas span **data analysis**, **web development**, and **data storage technologies**.
 
-### **Core Languages**
-<img src="https://skillicons.dev/icons?i=cs,java,python,dart,js,typescript&theme=dark" />
-
-### **Frontend Crafting**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,react&theme=dark" />
-
-### **Backend Engineering**
-<img src="https://skillicons.dev/icons?i=django,firebase,mysql&theme=dark" />
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,vscode,figma&theme=dark" />
-
-</div>
+- 🔭 **Currently building** &mdash; data analytics dashboards and cross-platform applications
+- 🌱 **Currently learning** &mdash; generative AI, prompt engineering, and modern AI workflows
+- 💬 **Ask me about** &mdash; Python, SQL, Power BI, and clean code practices
+- 📫 **Reach me** &mdash; [jezreelramoz@gmail.com](mailto:jezreelramoz@gmail.com)
 
 ---
 
-# 🚀 **GitHub Analytics Dashboard**
+## Tech Stack
 
-<div align="center">
-  
-  ## 📈 **Performance Overview**
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C792EA&text_color=FFFFFF&ring_color=FF6B9D"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=donut&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
-  
-</div>
+**Languages**
 
-<div align="center">
-  
-  ## 🔥 **Contribution Streaks**
-  
-  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=C792EA&fire=FF9F1C&currStreakLabel=FF6B9D&dates=FFFFFF"/>
-  
-</div>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<div align="center">
-  
-  ## ⭐ **Activity Graph**
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=C792EA&point=FFFFFF&area=true&area_color=FF6B9D"/>
-  
-</div>
+**Frontend**
 
-<!-- 
-<div align="center">
-  
-  ## 📊 **Detailed Analytics**
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=somarjez&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&layout=compact"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=donut-vertical&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
-  
-</div>
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+**Backend &amp; Data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-<div align="center">
-  
-  ### 💫 **Profile Views & Followers**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=somarjez&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/somarjez?color=FF6B9D&style=for-the-badge&logo=github&label=FOLLOWERS)
-  ![Stars](https://img.shields.io/github/stars/somarjez?color=C792EA&style=for-the-badge&logo=github&label=STARS)
-  
-</div>
+## Courses &amp; Skills
+
+Certifications completed and the skills they cover.
+
+| Course | Skills Gained |
+| :--- | :--- |
+| **Introduction to Modern AI** | Machine Learning, Computer Vision, Chatbots, Machine Translation, AI Prompting |
+| **Data Science Essentials with Python** | Exploratory Data Analysis, Linear Regression, Data Cleaning, Data Visualization, Storytelling, Jupyter |
+| **Data Analytics Essentials** | Data Analysis, Data Visualization, SQL, Microsoft Power BI, Tableau, Microsoft Excel |
+| **AI-Powered Future: Mastering Prompt Engineering in Generative AI** | Prompt Writing, Accurate Prompting, Artificial Intelligence (AI) |
+| **Software Engineering I** | Java, Programming, Data Structures, SDLC, Version Control, Testing, Quality Assurance, Security, Project Management |
+| **Data Privacy Awareness** | Data Privacy, Data Privacy Awareness |
 
 ---
 
-## 🏆 **Achievement Gallery**
+## Current Focus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
-</div>
-
----
-
-## 📈 **Contribution Journey**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
-</div>
+| Area | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| Mobile | Cross-platform applications | Flutter, Dart, Firebase | Active development |
+| Academic | Research &amp; data analysis | Python, Jupyter, Pandas | In progress |
+| Web | Full-stack solutions | Django, React, PostgreSQL | Planning |
+| ML / AI | Data science projects | Python, TensorFlow, scikit-learn | Learning |
 
 ---
 
-## 🎨 **Current Projects Spotlight**
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</p>
 
-| Project Type | Focus Area | Tech Stack | Status |
-|:---:|:---:|:---:|:---:|
-| 🎓 **Academic** | Research & Analysis | Python, Jupyter, Pandas | `In Progress` |
-| 📱 **Mobile** | Cross-Platform Apps | Flutter, Dart, Firebase | `Active Development` |
-| 🌐 **Web** | Full-Stack Solutions | Django, React, PostgreSQL | `Planning Phase` |
-| 🤖 **ML/AI** | Data Science Projects | Python, TensorFlow, Scikit-learn | `Learning Phase` |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+</p>
 
 ---
 
-## 💡 **Development Philosophy**
+## 2025 Goals
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20code%20is%20written%20when%20you%20understand%20both%20the%20problem%20and%20the%20solution%20deeply.&author=Jezreel%20Ramos" />
-</div>
-
-```python
-my_principles = {
-    "code_quality": "Clean, readable, and maintainable code is non-negotiable",
-    "user_first": "Every line of code should serve the end user's needs",
-    "continuous_learning": "Technology evolves, and so should we",
-    "collaboration": "Great software is built by great teams",
-    "innovation": "Don't just follow trends, create solutions that matter"
-}
-```
+- [ ] Build and launch my portfolio
+- [ ] Complete academic projects
 
 ---
 
-## 🌐 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jezreel-ramos-49b029350)
-[![Email](https://img.shields.io/badge/Email-jezreelramoz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jezreelramoz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://somarjez.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/somarjez)
-
-</div>
-
----
-
-## 🎯 **What's Next?**
-
-<div align="center">
-
-**2025 Goals Checklist**
-- [] Build my Portfolio
-- [] Accomplish Academic Prohjects
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  
-**🚀 Ready to build something extraordinary together? Let's code the future! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=somarjez&color=00D9FF&style=for-the-badge&label=Profile+Views" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/somarjez">Jezreel Ramos</a> - Crafted with 💙 and lots of ☕</sub>
-</div>
+<p align="center">
+  <sub>Crafted by <a href="https://github.com/somarjez">Jezreel Ramos</a></sub>
+</p>
