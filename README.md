@@ -19,9 +19,10 @@
 I'm a developer and student passionate about turning data and ideas into clean, reliable software.
 My focus areas span **data analysis**, **web development**, and **data storage technologies**.
 
-- 🔭 **Currently building** &mdash; data analytics dashboards and cross-platform applications
-- 🌱 **Currently learning** &mdash; generative AI, prompt engineering, and modern AI workflows
-- 💬 **Ask me about** &mdash; Python, SQL, Power BI, and clean code practices
+- 🎓 **Currently working on** &mdash; machine learning &amp; data analytics for my thesis
+- 🌱 **Exploring** &mdash; advanced ML techniques and data storytelling
+- 💼 **Portfolio** &mdash; live at [somarjez.github.io](https://somarjez.github.io/)
+- 💬 **Ask me about** &mdash; Python, SQL, Power BI, prompt engineering, and clean code
 - 📫 **Reach me** &mdash; [jezreelramoz@gmail.com](mailto:jezreelramoz@gmail.com)
 
 ---
@@ -78,10 +79,10 @@ Certifications completed and the skills they cover.
 
 | Area | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
+| Thesis | Machine learning &amp; data analytics | Python, Pandas, scikit-learn | Active |
 | Mobile | Cross-platform applications | Flutter, Dart, Firebase | Active development |
-| Academic | Research &amp; data analysis | Python, Jupyter, Pandas | In progress |
-| Web | Full-stack solutions | Django, React, PostgreSQL | Planning |
-| ML / AI | Data science projects | Python, TensorFlow, scikit-learn | Learning |
+| Web | Full-stack solutions | Django, React, PostgreSQL | Ongoing |
+| Analytics | Dashboards &amp; reporting | Power BI, Tableau, SQL | Ongoing |
 
 ---
 
@@ -96,12 +97,31 @@ Certifications completed and the skills they cover.
   <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution activity graph" />
+</p>
+
 ---
 
-## 2025 Goals
+## Achievements
 
-- [ ] Build and launch my portfolio
-- [ ] Complete academic projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=somarjez&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/somarjez?color=58a6ff&style=flat-square&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/somarjez?color=58a6ff&style=flat-square&logo=github&label=Stars" alt="Stars" />
+</p>
+
+---
+
+## Goals
+
+- [x] Build and launch my portfolio
+- [ ] Complete my thesis (machine learning &amp; data analytics)
+- [ ] Grow as a data analyst and developer
 
 ---
 
