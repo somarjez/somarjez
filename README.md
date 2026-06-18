@@ -94,7 +94,7 @@ Certifications completed and the skills they cover.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=somarjez&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 </p>
 
 <p align="center">
