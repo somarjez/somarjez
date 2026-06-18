@@ -105,9 +105,13 @@ Certifications completed and the skills they cover.
 
 ## Achievements
 
+<!--
+  Trophy widget temporarily disabled: the public github-profile-trophy instance
+  is over its hosting quota (HTTP 402) and renders broken. Re-enable when it recovers.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=somarjez&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
